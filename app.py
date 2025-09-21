@@ -64,7 +64,7 @@ INDEX_HTML = """<!DOCTYPE html>
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>CaptionTrans — Professional AI Subtitle Generator</title>
+    <title>YourEditor's CaptionTrans — Professional AI Subtitle Generator</title>
     <style>
         * { 
             margin: 0; 
